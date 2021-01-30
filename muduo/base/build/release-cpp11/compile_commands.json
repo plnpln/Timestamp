@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/CurrentThread.o -c /root/jmuduo/muduo/base/CurrentThread.cc",
+  "file": "/root/jmuduo/muduo/base/CurrentThread.cc"
+},
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/CountDownLatch.o -c /root/jmuduo/muduo/base/CountDownLatch.cc",
+  "file": "/root/jmuduo/muduo/base/CountDownLatch.cc"
+},
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/Thread.o -c /root/jmuduo/muduo/base/Thread.cc",
+  "file": "/root/jmuduo/muduo/base/Thread.cc"
+},
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/TimeZone.o -c /root/jmuduo/muduo/base/TimeZone.cc",
+  "file": "/root/jmuduo/muduo/base/TimeZone.cc"
+},
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/Logging.o -c /root/jmuduo/muduo/base/Logging.cc",
+  "file": "/root/jmuduo/muduo/base/Logging.cc"
+},
+{
+  "directory": "/root/jmuduo/muduo/base/build/release-cpp11",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/muduo_base.dir/Timestamp.o -c /root/jmuduo/muduo/base/Timestamp.cc",
+  "file": "/root/jmuduo/muduo/base/Timestamp.cc"
+}
+]
